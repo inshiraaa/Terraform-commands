@@ -27,7 +27,7 @@ c terraform apply
 
 #https://www.terraform.io/docs/modules/sources.html
 
-11. source = "github.com/quickbooks2018/Terraform-Classic-Modules/modules/vpc"
+11. source = "github.com/inshiraaa/Terraform-Classic-Modules/modules/s3"
 
 # ssh generate public key from a private key
 
